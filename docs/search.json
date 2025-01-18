@@ -14,20 +14,6 @@
     "text": "UBC Master of Data Science"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 17, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nAn Insider’s Perspective on the Master of Data Science Program\n\n\n\n\n\n\ndata science\n\n\nstudent\n\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nYibin Long\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/welcome/index.html#blending-statistics-and-computer-science",
     "href": "posts/welcome/index.html#blending-statistics-and-computer-science",
     "title": "An Insider’s Perspective on the Master of Data Science Program",
@@ -61,5 +47,19 @@
     "title": "An Insider’s Perspective on the Master of Data Science Program",
     "section": "If You Dislike Hands-On Learning",
     "text": "If You Dislike Hands-On Learning\nFurthermore, a data science masters won’t be a good fit for you if you dislike hands-on work. In university, I noticed a lot of courses that I took would fall into two categories: courses that can be passed through rote memorization, and courses where you have to seriously understand the content and be able to do all the practice problems to pass. The courses in a data science masters definitely fall under the latter category. This is because in each course, there are weekly labs that take many hours to complete. Each lab has many questions where you put in the work of applying what you learned in class. Essentially, simply reading through the course textbook will not get you far - you’ll need a deep understanding of the concepts covered to be able to accurately finish the questions."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 17, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nAn Insider’s Perspective on the Master of Data Science Program\n\n\n\n\n\n\ndata science\n\n\nstudent\n\n\n\n\n\n\n\n\n\nJan 14, 2025\n\n\nYibin Long\n\n\n\n\n\n\nNo matching items"
   }
 ]
